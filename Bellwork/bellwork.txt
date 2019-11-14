@@ -1,0 +1,25 @@
+How do you use html forms, HTTP & AJAX to communicate with a database?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+What does body-parser library do as a middleware?
+
+
+- When would you NEED it?
+
+
+- How do you log form data?
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+What does multer library do?
+
+
+- When would you NEED it?
+
+
+- Would you store an image or video in a database?
